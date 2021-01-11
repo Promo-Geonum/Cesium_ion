@@ -6,6 +6,7 @@ Cesium ion : un service web fondé sur CesiumJS permettant de visualiser et pré
 Cesium for Unreal : un globe terrestre 3D intégré au moteur de jeux vidéo Unreal.
 
 [<img width="500" alt="Cesium platform" src="img/1_cesium_platform.jpg">](https://cesium.com/platform/)
+
 Source : cesium.com
 
 Ce tutoriel se concentre sur l’application web Cesium ion, son fonctionnement, son intérêt et ses limites.
@@ -21,7 +22,7 @@ Une sélection de données fournie par Cesium est disponible dans l’onglet Ass
 
 Depuis l’Asset Depot, on peut ajouter une couche de données à My Assets et de là, les importer dans des projets Cesium ion, appelés histoires (stories). On peut également importer ses propres données dans Cesium ion, depuis son ordinateur.
 
-[<img width="500" alt="Assets" src="img/2_assets.jpg">]
+[<img width="500" alt="Assets" src="img/2_assets.png">]
 
 
 ## Personnaliser la visualisation
@@ -37,7 +38,7 @@ Pour créer un style, il faut sélectionner un champ dont dépendra le style. Il
 
 De cette manière, toutes les entités de la couche 3D en question se voient appliquer le style choisi.
 
-[<img width="500" alt="Style" src="img/3_style.jpg">]
+[<img width="500" alt="Style" src="img/3_style.png">]
 
 ## Naviguer dans les données
 
@@ -52,7 +53,7 @@ Au-delà de l’aspect visualisation utilisable pour soi-même, le principal int
 
 La première étape consiste à donner un titre et une description à notre première slide, sur laquelle nous sommes déjà en train de travailler depuis le début du tutoriel.
 
-[<img width="500" alt="Titre" src="img/4_titre.jpg">]
+[<img width="500" alt="Titre" src="img/4_titre.png">]
 
 
 Nous pouvons ensuite cliquer sur Capture view pour enregistrer un certain nombre de paramètres qui seront utilisés pour l’affichage de cette première slide.
@@ -76,7 +77,7 @@ Cesium ion est donc un créateur simple et efficace de présentations 3D semi-di
 
 
 
-[<img width="500" alt="Présentation" src="img/5_presentation.jpg">]
+[<img width="500" alt="Présentation" src="img/5_presentation.png">]
 
 
 
