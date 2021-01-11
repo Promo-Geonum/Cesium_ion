@@ -38,7 +38,7 @@ Pour créer un style, il faut sélectionner un champ dont dépendra le style. Il
 
 De cette manière, toutes les entités de la couche 3D en question se voient appliquer le style choisi.
 
-[<img width="500" alt="Style" src="img/3_style.png">]
+[<img width="300" alt="Style" src="img/3_style.png">]
 
 ## Naviguer dans les données
 
@@ -77,7 +77,7 @@ Cesium ion est donc un créateur simple et efficace de présentations 3D semi-di
 
 
 
-[<img width="500" alt="Présentation" src="img/5_presentation.png">]
+[<img width="800" alt="Présentation" src="img/5_presentation.png">]
 
 
 
